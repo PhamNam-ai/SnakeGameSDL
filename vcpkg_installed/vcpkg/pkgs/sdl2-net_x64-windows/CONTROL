@@ -1,0 +1,8 @@
+Package: sdl2-net
+Version: 2.2.0
+Port-Version: 3
+Depends: sdl2, vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: ff619c7d8ee46aeb5d1d5689ce4f7ad0f3b73728a7507cdab866752f2c3ccf86
+Description: Networking library for SDL
